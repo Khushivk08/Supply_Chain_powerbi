@@ -98,4 +98,10 @@ Screenshot 6: Shipment Dashboard
 Data Analyst | Power BI Developer  
 📍 Pune, India
 
+"Certain materials, including logos and images, 
+are included in this educational data analytics 
+dashboard under the fair use provision of the Indian Copyright Act, 1957. 
+These materials are used strictly for educational, non-commercial purposes. 
+All copyrights and trademarks remain the property of their respective owners."
+
 
